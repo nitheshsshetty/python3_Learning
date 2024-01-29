@@ -11,7 +11,7 @@ Make sure you have Python 3 installed on your machine. You can download it from 
 
 ## Clone the Repository
 ```
-git clone https://github.com/yourusername/python3_Learning.git
+git clone https://github.com/nitheshsshetty/python3_Learning.git
 cd python3_Learning
 ```
 ## Projects
