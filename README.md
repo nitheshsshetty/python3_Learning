@@ -20,13 +20,13 @@ Here's a glimpse of the projects I'm working on:
 
 ### Project One: 
 ```
-cd projects/project_one
+cd projects/project1-get_game_data.py
 python main.py
 ```
 
 ### Project Two: .
 ```
-cd projects/project_two
+cd projects/project2-quiz-game.py
 python app.py
 ```
 
