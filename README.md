@@ -10,25 +10,25 @@ If you're here for self-learning, feel free to explore the projects and exercise
 Make sure you have Python 3 installed on your machine. You can download it from python.org.
 
 ## Clone the Repository
-
+```
 git clone https://github.com/yourusername/python3_Learning.git
 cd python3_Learning
-
+```
 ## Projects
 
 Here's a glimpse of the projects I'm working on:
 
 ### Project One: 
-
+```
 cd projects/project_one
 python main.py
-
+```
 
 ### Project Two: .
-
+```
 cd projects/project_two
 python app.py
-
+```
 
 ## Contributing
 
