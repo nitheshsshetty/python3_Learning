@@ -18,7 +18,7 @@ print(words)
 
 answers = {}
 for word in words:
-    answer = input(f"Enter a word for {word} : ")
+    answer = input(f"Enter word for {word} : ")
     answers[word]=answer
 print(answers)
 
