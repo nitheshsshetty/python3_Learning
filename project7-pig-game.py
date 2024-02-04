@@ -30,7 +30,7 @@ player_scores = [0 for _ in range(players)]
 players_idx = 0
 while max(player_scores) < max_score:
     for players_idx in range(players):
-        print("Player number",players_idx + 1 ,"turn has just started")
+        print("Player number",players_idx + 1 ," turn has just started")
         print("Your totla score is ",player_scores[players_idx])
         current_score = 0
         while True:
